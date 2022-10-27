@@ -41,7 +41,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: ![alt text](/images/landscape-trees.jpg "Trees")
+about_profile_image:
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. <mark><a href="https://hcms.hallym.ac.kr/info-s/Softwear/ContentsIT/contentsIT.do">정보과학대학 소프트웨학부 콘텐츠it</a></mark>에 재학중인 20학번 이은비입니다.
   
@@ -56,6 +56,8 @@ about_content: | # this will include new lines to allow paragraphs
     - 제과제빵
     - 책읽기
     
+    -이미지 ![alt text](/images/eunbi.jpg)
+
    
 
 content:
