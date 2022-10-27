@@ -43,7 +43,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: ![Alt text](./eunbi.jpg)
 about_content: | # this will include new lines to allow paragraphs
-    #인적사항
+    # 인적사항
      - 이름: 이은비
      - 나이: 22세
      - 국적: 한국
