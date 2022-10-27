@@ -114,10 +114,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-       ![alt text](image/project.jpg)
-       ### 공모전 프로젝트 게임 중 일부입니다.
       소프트웨어 공부 중 유니티, 언리얼 개발에 더 관심이 많습니다. 게임에 대해 생각하고 구현하는 과정을 즐기며 이행하여 앞으로 더 획기적인 게임 개발을 할 것입니다.
-      ## 요리를 즐겨하는 취미가 있습니다. 솜씨도 수준급 입니다.
+      
       
      
 # Footer
