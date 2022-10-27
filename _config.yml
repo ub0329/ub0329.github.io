@@ -72,18 +72,17 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/ub0329
-        quote: >
-          ## <mark>미션</mark>이라는 주제로 쓰레기를 줍고 환경 퀴즈를 풀고 미니게임을 클리어해 탈출하는게임  
-          ### 유니티 사용
-          ![alt text](image/projectcb.jpg)
-          ### 미니게임
-            - 공기정화기 컨셉의 메트릭스
-            - 스페이스바를 빨리눌러 식물키우는 게임
-            - 박테리아 박멸 게임
-            - 열쇠를 다 찾아야 나갈 수 있는 미로
-            - 분리수거 게임
-          ### 이 외
-            - 환경 관련 상식 퀴즈,쓰레기 줍기, 캐릭터 교체 가능
+            about_content: ## <mark>미션</mark>이라는 주제로 쓰레기를 줍고 환경 퀴즈를 풀고 미니게임을 클리어해 탈출하는게임  
+                           ### 유니티 사용
+                           ![alt text](image/projectcb.jpg)
+                           ### 미니게임
+                           - 공기정화기 컨셉의 메트릭스
+                           - 스페이스바를 빨리눌러 식물키우는 게임
+                           - 박테리아 박멸 게임
+                           - 열쇠를 다 찾아야 나갈 수 있는 미로
+                           - 분리수거 게임
+                           ### 이 외
+                           - 환경 관련 상식 퀴즈,쓰레기 줍기, 캐릭터 교체 가능
             
    
           
@@ -96,11 +95,11 @@ content:
         caption: 2022~
         
         quote: >
-          ## 하계 방학 워크숍 & SW 전시회
-          ### <여우의 모험> 게임 개발 중
-            - stage1. 장애물 피하기
-            - stage2. 최상위 포식자 곰 오래 피해다니기
-            - stage3. 토끼 사냥하기
+          하계 방학 워크숍 & SW 전시회
+          <여우의 모험> 게임 개발 중
+             stage1. 장애물 피하기
+            stage2. 최상위 포식자 곰 오래 피해다니기
+            stage3. 토끼 사냥하기
           
           
        
