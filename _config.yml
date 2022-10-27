@@ -72,10 +72,8 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-           [미션] 쓰레기를 줍고 퀴즈를 풀어 탈출하는 게임
-           >
-           환경에 대한 심각성과 환경을 지켜야겠다는 경각심을 줌         
-        
+           환경에 대한 심각성과 환경을 지켜야겠다는 경각심을 줌 
+        quote: > 
            [미션] 쓰레기를 줍고 퀴즈를 풀어 탈출하는 게임
   - title: Experience
     layout: list
@@ -87,7 +85,7 @@ content:
         
         quote: >
             하계 방학 워크숍 
-            >
+        quote: >
             SW 전시회
           
        
