@@ -41,7 +41,7 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image:
+about_profile_image: ![Alt text](eunbi.jpg)
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. <mark><a href="https://hcms.hallym.ac.kr/info-s/Softwear/ContentsIT/contentsIT.do">정보과학대학 소프트웨학부 콘텐츠it</a></mark>에 재학중인 20학번 이은비입니다.
    
@@ -73,7 +73,7 @@ content:
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
            환경에 대한 심각성과 환경을 지켜야겠다는 경각심을 줌 
-        quote: > 
+        
            [미션] 쓰레기를 줍고 퀴즈를 풀어 탈출하는 게임
   - title: Experience
     layout: list
@@ -85,7 +85,7 @@ content:
         
         quote: >
             하계 방학 워크숍 
-        quote: >
+        
             SW 전시회
           
        
