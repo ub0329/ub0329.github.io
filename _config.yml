@@ -95,7 +95,7 @@ content:
     layout: list
     content:
       - layout: top-right
-        title:VR/AR 게임 개발자
+        title: VR/AR 게임 개발자
         sub_title: Unity
         caption: Date Range (eg. 2022)
         quote: >
