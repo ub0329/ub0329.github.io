@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
      - 거주지: 남양주시
     ## 학력
      - 마석고등학교 2020 졸업
-     - <mark><a href="https://hcms.hallym.ac.kr/info-s/Softwear/ContentsIT/contentsIT.do">정보과학대학 소프트웨학부 콘텐츠it</a></mark> 2020~2023
+     - <a href="https://hcms.hallym.ac.kr/info-s/Softwear/ContentsIT/contentsIT.do">정보과학대학 소프트웨학부 콘텐츠it</a> 2020~ ing
     ## 전공
     - 소프트웨어학부 콘텐츠IT
     - 식품영양학    
@@ -73,8 +73,16 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/ub0329
-            quote: >
-                   환경을 주제로한 퀴즈와 미니게임을 풀고 탈출하는 게임이다.
+            about_content: ## 환경 보호를 주제로한 게임 프로젝트 
+                           ![alt text](./projectcb.jpg)
+                           ### 미니게임 & 퀴즈
+                           - 식물 키우기 게임
+                           - 분리수거 게임
+                           - 미로찾기 게임
+                           - 쓰레기 줍기 게임
+                           - 환경 기본 상식 게임
+                           - 전기 절약하기 시뮬레이션
+                           - 공기 정화 매트리스 게임
    
           
   - title: Experience
