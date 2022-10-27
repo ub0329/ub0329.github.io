@@ -43,19 +43,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/eunbi.jpg
 about_content: | # this will include new lines to allow paragraphs
-    ## <mark>운명은 남이 개척하는 것이 아닌, 내가 개척하는 것이다.</mark>
-    ## 인적사항
-     - 이름: 이은비
-     - 나이: 22세
-     - 거주지: 남양주시
-    ## 학력
-     - 마석고등학교 2020 졸업
-     - <mark><a href="https://hcms.hallym.ac.kr/info-s/Softwear/ContentsIT/contentsIT.do">정보과학대학 소프트웨학부 콘텐츠it</a></mark> 2020~2023
-    ## 전공
-    - 소프트웨어학부 콘텐츠IT
-    - 식품영양학    
-    ## 취미
-    - 보드타기, 게임 분석, 카페 공부, 제과제빵, 책읽기
+
 
 content:
   - title: Projects # Title for the section
@@ -72,18 +60,8 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/ub0329
-            about_content: ## <mark>미션</mark>이라는 주제로 쓰레기를 줍고 환경 퀴즈를 풀고 미니게임을 클리어해 탈출하는게임  
-                           ### 유니티 사용
-                           ![alt text](image/projectcb.jpg)
-                           ### 미니게임
-                           - 공기정화기 컨셉의 메트릭스
-                           - 스페이스바를 빨리눌러 식물키우는 게임
-                           - 박테리아 박멸 게임
-                           - 열쇠를 다 찾아야 나갈 수 있는 미로
-                           - 분리수거 게임
-                           ### 이 외
-                           - 환경 관련 상식 퀴즈,쓰레기 줍기, 캐릭터 교체 가능
-            
+            quote: >
+                   코뿌
    
           
   - title: Experience
