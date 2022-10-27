@@ -57,24 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
     ## 취미
     - 보드타기, 게임 분석, 카페 공부, 제과제빵, 책읽기
     
-# About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: images/eunbi.jpg
-about_content: | # this will include new lines to allow paragraphs
-    ## <mark>운명은 남이 개척하는 것이 아닌, 내가 개척하는 것이다.</mark>
-    ## 인적사항
-     - 이름: 이은비
-     - 나이: 22세
-     - 거주지: 남양주시
-    ## 학력
-     - 마석고등학교 2020 졸업
-     - <a href="https://hcms.hallym.ac.kr/info-s/Softwear/ContentsIT/contentsIT.do">정보과학대학 소프트웨학부 콘텐츠it</a> 2020~ ing
-    ## 전공
-    - 소프트웨어학부 콘텐츠IT
-    - 식품영양학    
-    ## 취미
-    - 보드타기, 게임 분석, 카페 공부, 제과제빵, 책읽기
-    
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -83,7 +66,22 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 공모전
-        about_content: # 환경 보호 게임
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link 
+        additional_links:
+         
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/ub0329
+            quote: > 
+            환경을 주제로한 미니게임& 퀴즈게임으로 이루어진 탈출게임이다.
+            
+           - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/ub0329
+            quote: > 
+            [여우의 모험]이라는 주제로 장애물 피하기, 곰 피해다니기, 토끼 사냥하기 3개의 스테이지가 존재한다.
+         
          
             
           
@@ -93,10 +91,10 @@ content:
       - layout: left
         title: <mark>씨애랑</mark>
         sub_title: 소프트웨어 학술 동아리
-        caption: 2022~
+        caption: 2022~ing
         
         quote: >
-          하계 방학 워크숍 & SW 전시회
+          하계 방학 워크숍 & SW 전시회로 활동하였다.
        
           
           
