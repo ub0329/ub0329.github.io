@@ -56,10 +56,17 @@ about_content: | # this will include new lines to allow paragraphs
     - 식품영양학    
     ## 취미
     - 보드타기, 게임 분석, 카페 공부, 제과제빵, 책읽기
-
-
-
-                         
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: 공모전
+        about_content:# 환경 보호 게임
+         
+            
           
   - title: Experience
     layout: list
