@@ -62,19 +62,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: 공모전
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link 
-        additional_links:
-         
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://github.com/ub0329
-            quote: > 
-                환경을 주제로한 미니게임& 퀴즈게임으로 이루어진 탈출게임이다.
+      #테스트
             
          
          
