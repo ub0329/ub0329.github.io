@@ -44,10 +44,9 @@ additional_links:
 about_profile_image: images/eunbi.jpg
 about_content: | # this will include new lines to allow paragraphs
     # 인적사항
-     - 이름: 이은비
-     - 나이: 22세
-     - 국적: 한국
-     - 거주지: 남양주시
+    ## 이름: 이은비
+    ## 나이: 22세
+    ##거주지: 남양주시
     # 학력
      - 마석고등학교 2020 졸업
      - <mark><a href="https://hcms.hallym.ac.kr/info-s/Softwear/ContentsIT/contentsIT.do">정보과학대학 소프트웨학부 콘텐츠it</a></mark> 2020~2023
