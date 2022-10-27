@@ -19,16 +19,10 @@ website: https://blog.naver.com/leeub0329
 darkmode: true
 
 # Social links
-github_username:  ub0329
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-flickr_username: jekyll
+github_username: ub0329
 instagram_username: eunbi_ya
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+naverblog_username: leeub0329
+
 
 # Additional icon links
 additional_links:
