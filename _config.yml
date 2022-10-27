@@ -44,9 +44,7 @@ additional_links:
 about_profile_image:
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. <mark><a href="https://hcms.hallym.ac.kr/info-s/Softwear/ContentsIT/contentsIT.do">정보과학대학 소프트웨학부 콘텐츠it</a></mark>에 재학중인 20학번 이은비입니다.
-  
-
-  
+   
     # 전공
     - 소프트웨어학부 콘텐츠IT
     - 식품영양학
@@ -55,10 +53,6 @@ about_content: | # this will include new lines to allow paragraphs
     - 익스트림 스포츠
     - 제과제빵
     - 책읽기
-    
-    -이미지 ![alt text](/images/eunbi.jpg)
-
-   
 
 content:
   - title: Projects # Title for the section
@@ -67,9 +61,9 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Unity game
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link_text: Link 
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
