@@ -77,12 +77,12 @@ content:
             icon: fab fa-github
             url: https://github.com/ub0329
         quote: >
-          미션'이라는 주제로 쓰레기를 줍고 퀴즈를 풀어 탈출하는 게임이다.  환경에 대한 심각성과 환경을 지켜야겠다는 경각심을 준다.
+          <mark>미션</mark>이라는 주제로 쓰레기를 줍고 퀴즈를 풀어 탈출하는 게임이다.  환경에 대한 심각성과 환경을 지켜야겠다는 경각심을 준다.
   - title: Experience
     layout: list
     content:
       - layout: left
-        title: 씨애랑
+        title: <mark>씨애랑</mark>
         sub_title: 소프트웨어 학술 동아리
         caption: 2022~
         
@@ -94,13 +94,13 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: VR/AR 게임 개발자
+        title:VR/AR 게임 개발자
         sub_title: Unity
         caption: Date Range (eg. 2022)
         quote: >
           유니티 개발에 대한 기본 지식과 개발자의 역량에 대해 배움
         description: | # this will include new lines to allow paragraphs
-          사용하는 언어: C#, java, 리눅스, C
+          사용하는 언어: <mark>C#, java,</mark> 리눅스, C
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
