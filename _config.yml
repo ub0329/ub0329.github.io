@@ -43,6 +43,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: 
 about_content: | # this will include new lines to allow paragraphs
+  안녕하세요. <mark>한림대학교 정보과학대학 소프트웨학부 콘텐츠it</makr>에 재학중인 20학번 이은비입니다.
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
