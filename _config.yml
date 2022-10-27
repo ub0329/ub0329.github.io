@@ -62,7 +62,6 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-       ![alt text](image/project.jpg){: width="300" height="200"}
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
@@ -119,6 +118,7 @@ content:
       소프트웨어 공부 중 유니티, 언리얼 개발도 관심이 많지만 빵 만들기에도 관심이 많고 좋은 실력을 가지고 있습니다.
       빵 조리는 생각보다 수학적이고 계산적이기에 철저한 준비가 필요합니다.
       따라서 코딩과 프로젝트 또한 철저히 준비하겠습니다.
+      
       
       
      
