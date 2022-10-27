@@ -73,7 +73,8 @@ content:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: https://github.com/ub0329
-            about_content: ## 환경 보호를 주제로한 게임 프로젝트 
+            quote: >
+                         ## 환경 보호를 주제로한 게임 프로젝트 
                            ![alt text](./projectcb.jpg)
                            ### 미니게임 & 퀴즈
                            - 식물 키우기 게임
