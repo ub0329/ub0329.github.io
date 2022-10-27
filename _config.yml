@@ -97,7 +97,7 @@ content:
         quote: >
           유니티 개발에 대한 기본 지식과 개발자의 역량에 대해 배움
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          주로 사용하는 언어: C#, java
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
