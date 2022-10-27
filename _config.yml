@@ -64,7 +64,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 공모전
-        about_content:# 환경 보호 게임
+        about_content: # 환경 보호 게임
          
             
           
