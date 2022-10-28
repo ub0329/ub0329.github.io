@@ -42,13 +42,14 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/eunbi.jpg
+about_content: 
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=merko)
 about_content: | # this will include new lines to allow paragraphs
     ## <mark>운명은 남이 개척하는 것이 아닌, 내가 개척하는 것이다.</mark>
     ## 인적사항
      - 이름: 이은비
      - 나이: 22세
      - 거주지: 남양주시
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=merko)
     ## 학력
      - 마석고등학교 2020 졸업
      - <a href="https://hcms.hallym.ac.kr/info-s/Softwear/ContentsIT/contentsIT.do">정보과학대학 소프트웨학부 콘텐츠it</a> 2020~ ing
