@@ -118,9 +118,9 @@ content:
     
     content: | # this will include new lines to allow paragraphs
       
-      <div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=merko)
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=merko)
       
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ub0329&layout=compact&theme=merko)</div>
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ub0329&layout=compact&theme=merko)
       - 소프트웨어 공부 중 유니티, 언리얼 개발도 관심이 많지만 빵 만들기에도 관심이 많고 좋은 실력을 가지고 있습니다.
       - 빵 조리는 생각보다 수학적이고 계산적이기에 철저한 준비가 필요합니다.
       - 따라서 코딩과 프로젝트 또한 철저히 준비하겠습니다. ![alt text](./cake.jpg){: width="80" height="50"}
