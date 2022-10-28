@@ -44,7 +44,7 @@ additional_links:
 about_profile_image: images/eunbi.jpg
     
 about_content: | # this will include new lines to allow paragraphs
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=merko)
+
     ## <mark>운명은 남이 개척하는 것이 아닌, 내가 개척하는 것이다.</mark>
     ## 인적사항
      - 이름: 이은비
@@ -114,10 +114,12 @@ content:
         description: | # this will include new lines to allow paragraphs
           사용하는 언어: <mark>C#, java,</mark> 리눅스, C
   - title: A Little More About Me
+    about_profile_image: ./cake.jpg
     layout: text
     
     content: | # this will include new lines to allow paragraphs
-      ![alt text](./cake.jpg){: width="300" height="250"}
+      
+       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=merko)
       - 소프트웨어 공부 중 유니티, 언리얼 개발도 관심이 많지만 빵 만들기에도 관심이 많고 좋은 실력을 가지고 있습니다.
       - 빵 조리는 생각보다 수학적이고 계산적이기에 철저한 준비가 필요합니다.
       - 따라서 코딩과 프로젝트 또한 철저히 준비하겠습니다.
