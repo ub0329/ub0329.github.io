@@ -46,8 +46,6 @@ about_profile_image: images/eunbi.jpg
     
 about_content: | # this will include new lines to allow paragraphs
 
-    ## <mark>운명은 남이 개척하는 것이 아닌, 내가 개척하는 것</mark>
-    ## 인적사항
      - 이름: 이은비
      - 나이: 22세
      - 거주지: 남양주시
@@ -58,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
     - 소프트웨어학부 콘텐츠IT
     - 식품영양학    
     ## 취미
-    - 보드타기, 게임 분석, 카페 공부, 제과제빵, 책읽기
+    - 영화, 제빵, 게임
     
 
 content:
@@ -95,8 +93,8 @@ content:
         caption: 2022~ing
         
         quote: >
-          하계 방학 워크숍 & SW 전시회로 유니티 기본 공부와 [여우의 모험]게임 제작 중
-        description: 프로젝트 기간:2022.08~ing  
+          하계 방학 워크숍 & SW 전시회로 유니티 기본 공부와 [여우의 모험]게임 (은상)
+        description: 프로젝트 기간:2022.08~2022.10  
        
           
           
@@ -119,10 +117,8 @@ content:
       
       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ub0329&show_icons=true&theme=merko)
       
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ub0329&layout=compact&theme=merko)
-      - 소프트웨어 공부 중 유니티, 언리얼 개발도 관심이 많지만 빵 만들기에도 관심이 많고 좋은 실력을 가지고 있습니다.
-      - 빵 조리는 생각보다 수학적이고 계산적이기에 철저한 준비가 필요합니다.
-      - 따라서 코딩과 프로젝트 또한 철저히 준비하겠습니다. ![alt text](./cake.jpg){: width="80" height="50"}
+     
+     
       
      
       
